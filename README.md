@@ -74,3 +74,7 @@ Ejecutar el siguiente comando desde la raíz del proyecto:
 ```bash
 mkdocs serve
 ```
+
+## Referencias
+
+[1] Wu, R., Zhao, Y., Li, N., Seong, G., & Kong, S. (2021). Fast and accurate polarization demosaicking based on polarization channel difference prior. Optics Express, 29(14), 22066–22081. Optica Publishing Group. 
