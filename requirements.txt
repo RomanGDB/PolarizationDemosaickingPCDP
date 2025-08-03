@@ -1,0 +1,14 @@
+python-dotenv
+jupyterlab
+numpy
+scipy
+matplotlib
+seaborn
+opencv-python
+scikit-image
+scikit-learn
+pandas
+mkdocs
+mkdocs-material
+mkdocs-caption
+mkdocs-bibtex
