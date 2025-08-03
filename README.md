@@ -6,17 +6,16 @@ Este repositorio tiene como objetivo principal aplicar el algoritmo PCDP (Polari
 
 [Página web del proyecto](https://2025-proyecto-grupo-07-639332.pages.fing.edu.uy/)
 
-[Documentación del Proyecto]
+## Documentación del Proyecto
 
 La documentación completa del proyecto se encuentra organizada en la carpeta [`docs/`](docs/). A continuación, se presentan los enlaces directos a cada sección:
 
-- [Acerca del proyecto (`about.md`)](docs/about.md): Introducción general y objetivos del trabajo.
-- [Experimentos (`experiments.md`)](docs/experiments.md): Descripción de los experimentos realizados.
-- [Conjunto de datos (`datasets.md`)](docs/datasets.md): Detalles sobre los datasets utilizados.
-- [Metodología (`methods.md`)](docs/methods.md): Métodos aplicados y justificación técnica.
-- [Índice general (`index.md`)](docs/index.md): Estructura general de la documentación.
-- [Conclusiones (`conclusions.md`)](docs/conclusions.md): Análisis final y observaciones del proyecto.
-
+- [Acerca del proyecto (`about.md`)]: Introducción general y objetivos del trabajo.
+- [Experimentos (`experiments.md`)]: Descripción de los experimentos realizados.
+- [Conjunto de datos (`datasets.md`)]: Detalles sobre los datasets utilizados.
+- [Metodología (`methods.md`)]: Métodos aplicados y justificación técnica.
+- [Índice general (`index.md`)]: Estructura general de la documentación.
+- [Conclusiones (`conclusions.md`)]: Análisis final y observaciones del proyecto.
 
 [Repositorio del proyecto](https://gitlab.fing.edu.uy/timag/2025/proyectos/2025-proyecto-grupo-07)
 
