@@ -2,7 +2,7 @@
 
 Este repositorio contiene el proyecto final del grupo 07 del curso de Tratamiento de Imágenes por Computadora de la Facultad de Ingeniería de la Udelar, edición 2025.
 
-Este repositorio tiene como objetivo principal aplicar el algoritmo PCDP (Polarization Channel Difference Prior) para solucionar el problema de Demosaicking de Imágenes polarizadas a color. La documentación y el código fuente del proyecto, pueden encontrarse accediendo a los siguientes links:
+Este repositorio tiene como objetivo principal aplicar el algoritmo PCDP (Polarization Channel Difference Prior) para solucionar el problema de Demosaicking de Imágenes polarizadas a color [1]. La documentación y el código fuente del proyecto, pueden encontrarse accediendo a los siguientes links:
 
 [Página web del proyecto](https://2025-proyecto-grupo-07-639332.pages.fing.edu.uy/)
 
